@@ -1,0 +1,12 @@
+{
+  "name": "Project12C",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AliHaiderrr/Project12C.git",
+  "author": "AliHaiderrr <77885634+AliHaiderrr@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
